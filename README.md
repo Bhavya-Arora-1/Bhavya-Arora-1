@@ -28,4 +28,30 @@ I'm a Data Science enthusiast passionate about leveraging data to solve real-wor
 ⚡ **Fun fact**  
 I enjoy exploring hidden patterns in data as much as I love unwinding with Punjabi music and a good cup of tea! ☕
 
+## 🛠 Skills  
+Here’s what I bring to the table:  
+
+### **Programming:**  
+- Python (Pandas, NumPy, Scikit-learn, Beautiful Soup, NLTK)  
+- SQL (PostgreSQL, MySQL)  
+
+### **Machine Learning:**  
+- Supervised Learning (Regression, Classification)  
+- Unsupervised Learning (Clustering, PCA)  
+- Deep Learning (TensorFlow, Keras, CNNs, RNNs, LSTMs)  
+- Natural Language Processing (Text Preprocessing, Sentiment Analysis, TF-IDF, Word2Vec)  
+
+### **Data Analysis & Visualization:**  
+- Data Cleaning and Preparation  
+- Visualization using Matplotlib, Seaborn, and Plotly  
+
+### **Tools & Technologies:**  
+- Colab, Jupyter Notebooks, AWS S3, PostgreSQL  
+
+### **Core Concepts:**  
+- Statistics, Probability, Time-Series Analysis  
+- Feature Engineering, A/B Testing, Hypothesis Testing  
+
 ---
+
+Feel free to reach out if you'd like to collaborate on exciting projects or simply connect!  
